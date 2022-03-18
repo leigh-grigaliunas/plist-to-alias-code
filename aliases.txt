@@ -1,0 +1,44 @@
+alias jjj='LeeGee in Brissie'
+alias zadd='U7 9 Silva St, Ascot QLD 4007'
+alias zbash='chsh -s /bin/bash'
+alias zboil='&lt;!DOCTYPE html&gt;
+&lt;html lang="en"&gt;
+  &lt;head&gt;
+    &lt;meta charset="UTF-8"&gt;
+    &lt;meta name="viewport" content="width=device-width, initial-scale=1.0"&gt;
+    &lt;meta http-equiv="X-UA-Compatible" content="ie=edge"&gt;
+    &lt;title&gt;HTML 5 Boilerplate&lt;/title&gt;
+    &lt;link rel="stylesheet" href="style.css"&gt;
+  &lt;/head&gt;
+  &lt;body&gt;
+	&lt;script src="index.js"&gt;&lt;/script&gt;
+  &lt;/body&gt;
+&lt;/html&gt;'
+alias zemb='leighg@worldsbiggestgaragesale.com.au'
+alias zemp='leigh.grigaliunas@gmail.com'
+alias zems='leegee27394@gmail.com'
+alias zfb='My address is 7/9 Silva St, Ascot QLD 4007 and phone is 0400066784. Best to text or call because I don’t spend all day in Facebook.'
+alias zga='git add'
+alias zgb='git branch'
+alias zgch='git checkout '
+alias zgcl='git clone'
+alias zgco='git commit -m ""'
+alias zgd='git diff'
+alias zgf='git fetch'
+alias zgh='git --help'
+alias zgi='git init '
+alias zgli='git ls-files
+alias zglo='git log'
+alias zglog='git log --graph --decorate --oneline --all'
+alias zgm='git merge'
+alias zgpl='git pull'
+alias zgps='git push'
+alias zgrhd='git reset HEAD'
+alias zgrhr='git reset --hard'
+alias zgrhs='git reset --soft HEAD^'
+alias zgsh='git show'
+alias zgst='git status'
+alias zli='&lt;li&gt;&lt;/li&gt;'
+alias znav='&lt;nav&gt;&lt;/nav&gt;'
+alias zul='&lt;ul&gt;&lt;/ul&gt;'
+alias zzsh='chsh -s /bin/zsh'
