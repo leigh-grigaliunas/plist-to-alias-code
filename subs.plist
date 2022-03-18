@@ -16,6 +16,30 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>chsh -s /bin/bash</string>
+		<key>shortcut</key>
+		<string>zbash</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>&lt;!DOCTYPE html&gt;
+&lt;html lang="en"&gt;
+  &lt;head&gt;
+    &lt;meta charset="UTF-8"&gt;
+    &lt;meta name="viewport" content="width=device-width, initial-scale=1.0"&gt;
+    &lt;meta http-equiv="X-UA-Compatible" content="ie=edge"&gt;
+    &lt;title&gt;HTML 5 Boilerplate&lt;/title&gt;
+    &lt;link rel="stylesheet" href="style.css"&gt;
+  &lt;/head&gt;
+  &lt;body&gt;
+	&lt;script src="index.js"&gt;&lt;/script&gt;
+  &lt;/body&gt;
+&lt;/html&gt;</string>
+		<key>shortcut</key>
+		<string>zboil</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>leighg@worldsbiggestgaragesale.com.au</string>
 		<key>shortcut</key>
 		<string>zemb</string>
@@ -31,6 +55,12 @@
 		<string>leegee27394@gmail.com</string>
 		<key>shortcut</key>
 		<string>zems</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>My address is 7/9 Silva St, Ascot QLD 4007 and phone is 0400066784. Best to text or call because I don’t spend all day in Facebook.</string>
+		<key>shortcut</key>
+		<string>zfb</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -101,6 +131,12 @@ git ls-</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>git log --graph --decorate --oneline --all</string>
+		<key>shortcut</key>
+		<string>zglog</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>git merge</string>
 		<key>shortcut</key>
 		<string>zgm</string>
@@ -146,6 +182,30 @@ git ls-</string>
 		<string>git status</string>
 		<key>shortcut</key>
 		<string>zgst</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>&lt;li&gt;&lt;/li&gt;</string>
+		<key>shortcut</key>
+		<string>zli</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>&lt;nav&gt;&lt;/nav&gt;</string>
+		<key>shortcut</key>
+		<string>znav</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>&lt;ul&gt;&lt;/ul&gt;</string>
+		<key>shortcut</key>
+		<string>zul</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>chsh -s /bin/zsh</string>
+		<key>shortcut</key>
+		<string>zzsh</string>
 	</dict>
 </array>
 </plist>
